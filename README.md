@@ -1,4 +1,4 @@
-### 👋Oii, eu sou Gustavo Galdino.
+### 👋 Olá, eu sou Gustavo Galdino.
 <br>
 <div align="center">
   <a href="https://github.com/rafaballerini">
